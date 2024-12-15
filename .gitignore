@@ -1,6 +1,5 @@
 .idea/
 venv
-movie_name.pkl
+
 Procfile
 setup.sh
-similarity.pkl
